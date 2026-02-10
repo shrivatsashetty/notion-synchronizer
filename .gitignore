@@ -1,0 +1,4 @@
+.env.example
+requests.sh
+api-responses/*
+node_modules
